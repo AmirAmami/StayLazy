@@ -16,4 +16,4 @@ Enfin, il faut installer la bibliothèque paho_mqtt en inserant sudo pip3 instal
 ### Installation de la base de données InfluxDB
 L’installation de la base de données se fait en utilisant les instructions sudo apt install influxdb et sudo apt install influxdb-client, ensuite il faut activer la communication http dans le fichier de configuration de InfluxDB, on utilise l’instruction sudo nano /etc/influxdb/influxdb.conf pour accéder au fichier, ensuite on descend à la partie http et on enlève le # devant enabled = true.
 Ensuite, il faut créer la base de données dans laquelle on va stocker nos données et il faut créer des utilisateurs, cette partie est faite manuellement et elle est bien documenté sur le site de [InfluxDB](https://docs.influxdata.com/influxdb/v2.1/get-started/).
-Enfin, il Enfin, il faut installer la bibliothèque influxdb en inserant sudo pip3 install influxdb au terminal.
+Enfin, il Enfin, il faut installer la bibliothèque influxdb en inserant **sudo pip3 install influxdb** au terminal.
