@@ -1,7 +1,9 @@
 ## Etapes initiales:
 
-### Insallation d'un système d'exloitation
+### Insallation d'un système d'exploitation
 Avant de commencer l’implémentation des codes, il faut tout d’abord installer un système d’exploitation sur le Raspberry, c’est une étape assez simple et très documenté, donc on ne va pas la détaillé sur ce manuel, on précise qu’il faut installer Raspbian comme système d’exploitation pour éviter d’éventuelles problèmes ultérieurement.
+
+### Configuration du rapsberry comme point d'accès
 Avant d’entamer cette partie, il faut tout d’abord configurer le Raspberry comme point d’accès pour les ateliers. Cette étape est très compliquée à faire, donc on va se servir d’un code open source qu’on va importer de [GitHub](https://github.com/km4ack/pi-scripts/blob/master/autohotspotN-setup) vers le Raspberry en utilisant l’instruction suivante sur le terminal du Raspberry : « wget https://raw.githubusercontent.com/km4ack/pi-scripts/master/autohotspotN-setup ». La vidéo dans ce [lien](https://www.youtube.com/watch?v=qMT-0mz1lkI) explique étape par étape comment configurer le Raspberry comme point d’accès.
 Après la configuration, le Raspberry ce comportera comme un point d’accès et aura l’adresse IP fixe 10.10.10.10, mais il pourra aussi permuter vers un fonctionnement normale si jamais une connexion Wifi est requise.
 
