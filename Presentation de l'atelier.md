@@ -7,7 +7,7 @@
 Des adolescents ( 14 - 18 ans ) ayant un télépone intelligent, intéressés par la technologie et voulant rendre leur chambre intelligente.
 
 ### Profil des animateurs :  
-Une personne avec des connaissances en programmation et utilisation de rasberry pi.
+Une personne avec des connaissances en programmation et utilisation de raspberry pi.
 
 ### Nombre et durée des séances : 
 
