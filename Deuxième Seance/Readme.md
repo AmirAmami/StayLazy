@@ -30,4 +30,6 @@ Les codes [PublishServoMoteur.py](https://github.com/AmirAmami/StayLazy/blob/mai
 
 ### ESP8266
 Les ESPs utilisés joueront soit le rôle de Publisher ou de Subscriber, Les scripts qui joue le rôle de Publisher envoient les données collectés des capteurs soit afin de les visualiser sur le smartphone ou afin de s’en servir comme dans le cas précèdent pour ouvrir ou fermer les volets. Les codes qui jouent le rôle de Publisher sont :
-- dcd
+- [CapteurDHT11.cpp](https://github.com/AmirAmami/StayLazy/blob/main/Deuxi%C3%A8me%20Seance/Esp8266/CapteurDHT11.cpp) : Ce code renvoie sur les topics "Chambre/temperature" et "Chambre/humidite" les valeurs de la température et de l'humidité dans la chambre.
+- [CapteurLumiere.cpp](https://github.com/AmirAmami/StayLazy/blob/main/Deuxi%C3%A8me%20Seance/Esp8266/CapteurLumiere.cpp) : Ce code renvoie sur le topic "Chambre/periode", si c'est la nuit ou le jour.
+- [CapteurProximité.cpp](https://github.com/AmirAmami/StayLazy/blob/main/Deuxi%C3%A8me%20Seance/Esp8266/CapteurProximit%C3%A9.cpp) : Ce code envoie sur le topic "Chambre/porte", l'état de la porte si elle ouverte ou fermé.
