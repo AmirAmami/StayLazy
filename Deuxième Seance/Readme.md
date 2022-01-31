@@ -30,4 +30,4 @@ Les codes [PublishServoMoteur.py](https://github.com/AmirAmami/StayLazy/blob/mai
 
 ### ESP8266
 Les ESPs utilisés joueront soit le rôle de Publisher ou de Subscriber, Les scripts qui joue le rôle de Publisher envoient les données collectés des capteurs soit afin de les visualiser sur le smartphone ou afin de s’en servir comme dans le cas précèdent pour ouvrir ou fermer les volets. Les codes qui jouent le rôle de Publisher sont :
-> l,dkl
+- dcd
