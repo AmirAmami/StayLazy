@@ -53,4 +53,4 @@ Le but est que les adolescents apprennent la notion de systèmes automatisés et
 
 ### Site web :
 
-https://manel99bkl.wixsite.com/website?fbclid=IwAR1_xYLgQwty9NpB7k8aipNwNBCDTp1YrqHrQv_NTDa7k_kE0h9DFBD5DPo
+https://manel99bkl.wixsite.com/website
