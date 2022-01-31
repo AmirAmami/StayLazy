@@ -40,3 +40,4 @@ Les fichiers Subscriber sont : [Moteur.cpp](https://github.com/AmirAmami/StayLaz
 - Tous les scripts sont expliqués en utilisant des commentaires.
 - Les pins utilisés pour les capteurs ne sont pas spécifiés, ce sont des valeurs aléatoire, donc c'est au formatteur de les specifier.
 - Tous les scripts de l'Esp ont été séparé vu qu'il y aura lusieurs petits ateliers néanmoins tous les fichiers peuvent être regrouper dans un seul.
+- Possibilité d'ajouter Grafana au Raspberry afin de visualiser les données des capteurs.
