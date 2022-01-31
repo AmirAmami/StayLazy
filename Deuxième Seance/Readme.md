@@ -36,7 +36,7 @@ Les ESPs utilisés joueront soit le rôle de Publisher ou de Subscriber, Les scr
 
 Les fichiers Subscriber sont : [Moteur.cpp](https://github.com/AmirAmami/StayLazy/blob/main/Deuxi%C3%A8me%20Seance/Esp8266/Moteur.cpp) et [Servomoteur.cpp](https://github.com/AmirAmami/StayLazy/blob/main/Deuxi%C3%A8me%20Seance/Esp8266/Servomoteur.cpp), ces deux scripts comme cité précédemment récupére du raspberry soit la valeur 1 ou 0 selon la periode afin de fermer ou d'ouvrir un volet en actionnant les moteurs.
 
-##Remarques:
--Tous les scripts sont expliqués en utilisant des commentaires.
--Les pins utilisés pour les capteurs ne sont pas spécifiés, ce sont des valeurs aléatoire, donc c'est au formatteur de les specifier.
--Tous les scripts de l'Esp ont été séparé vu qu'il y aura lusieurs petits ateliers néanmoins tous les fichiers peuvent être regrouper dans un seul.
+## Remarques:
+- Tous les scripts sont expliqués en utilisant des commentaires.
+- Les pins utilisés pour les capteurs ne sont pas spécifiés, ce sont des valeurs aléatoire, donc c'est au formatteur de les specifier.
+- Tous les scripts de l'Esp ont été séparé vu qu'il y aura lusieurs petits ateliers néanmoins tous les fichiers peuvent être regrouper dans un seul.
